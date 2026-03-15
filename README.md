@@ -20,7 +20,6 @@
 | [**CheckClaw**](https://github.com/kknd0/checkclaw) | CLI for instant bank account queries via Plaid API |
 | [**CLIProxyAPI**](https://github.com/kknd0/CLIProxyAPI) | Turn any AI CLI into an OpenAI-compatible API |
 | [**wechat-decrypt-mac**](https://github.com/kknd0/wechat-decrypt-mac) | WeChat 4.0 macOS database decryptor |
-| [**agent-browser**](https://github.com/nicepkg/agent-browser) | AI agent anti-detection browser automation |
 
 ## Stack
 
@@ -36,7 +35,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lizi--li-0A66C2?logo=linkedin)](https://linkedin.com/in/lizi-li)
 [![Website](https://img.shields.io/badge/Website-lizi.one-000?logo=safari)](https://lizi.one)
 [![Twitter](https://img.shields.io/badge/X-@apsu__x-000?logo=x)](https://x.com/apsu_x)
-
----
-
-*Building production AI agents, one MCP server at a time. 🦞*
